@@ -1,0 +1,41 @@
+ body{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: whitesmoke;
+ }
+ h1{
+     text-align: center;
+ }
+ 
+p{
+    text-align: center;
+    font-size: 20px;
+
+}               
+.image image{
+text-align: center;
+}
+input{
+    -margin-left:200px;
+    
+    padding:5px;
+    margin-left:10px; margin-bottom: 15px;
+    padding: auto;
+    border-radius: 5px;
+    -width:50%
+}
+button{
+          margin-left: 200px;
+          width:100px;
+          padding:5px;
+          border-radius: 5px;
+          color:white;
+          background-color: orangered;
+}
+        
+        
+ }
